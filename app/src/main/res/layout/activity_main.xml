@@ -13,10 +13,10 @@
             android:gravity="center">
             <TextView android:id="@+id/address" android:layout_width="wrap_content"
                 android:layout_height="wrap_content" android:textSize="24dp"
-                android:text="DHAKA, BD"/>
+                android:text="Pune, IN"/>
             <TextView android:id="@+id/updated_at" android:layout_width="wrap_content"
                 android:layout_height="wrap_content" android:textSize="14dp"
-                android:text="20 April 2012, 20:08 PM"/>
+                android:text="26 Jan 2022, 14:30 PM"/>
         </LinearLayout>
 
 
